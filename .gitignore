@@ -1,0 +1,7 @@
+.ssh/
+.config/gh/
+storage/
+*.key
+*.pem
+*token*
+*secret*

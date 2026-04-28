@@ -1,0 +1,1 @@
+export PATH=$HOME/TERMUX_OS/bin:$PATH
